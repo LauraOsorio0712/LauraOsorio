@@ -1,11 +1,10 @@
 Package: MATH2022LauraOsorio
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Summer Functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Laura C. Osorio Ojeda
+Maintainer: The package maintainer <Laura.Osorio@ou.edu>
+Description: A collection of modified MATH 4753 lab functions.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
